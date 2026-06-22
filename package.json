@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "slidev --open",
-    "build": "slidev build --base ./",
+    "build": "slidev build --base /slidev_test/ && node scripts/write-pages-404.mjs",
     "export": "slidev export"
   },
   "devDependencies": {

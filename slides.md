@@ -7,6 +7,7 @@ class: text-center
 drawings:
   persist: false
 transition: slide-left
+routerMode: hash
 mdc: true
 css: unocss
 ---
