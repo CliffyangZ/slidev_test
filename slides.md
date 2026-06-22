@@ -8,6 +8,7 @@ drawings:
   persist: false
 transition: slide-left
 routerMode: hash
+preloadImages: false
 mdc: true
 css: unocss
 ---
