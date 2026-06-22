@@ -79,6 +79,24 @@
   width: 100%;
 }
 
+.image-card.detection-card {
+  margin: 1rem 0 0.8rem;
+}
+
+.image-card.detection-card img {
+  max-height: 13.5rem;
+}
+
+.slide-page-number {
+  position: fixed;
+  right: 1.6rem;
+  bottom: 1rem;
+  z-index: 50;
+  color: rgba(15, 23, 42, 0.62);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
 .impact-card {
   padding: 2rem;
 }

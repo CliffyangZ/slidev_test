@@ -112,11 +112,8 @@ layout: center
 
 RF-DETR is used to detect floating feed residue in real time.
 
-<div class="figure-placeholder">
-  <div>
-    <div class="placeholder-title">Detection Result</div>
-    <div class="placeholder-caption">Bounding boxes + pixel area estimation</div>
-  </div>
+<div class="image-card detection-card">
+  <img src="./assets/fish_demo.png" alt="RF-DETR fish feed recognition demo" />
 </div>
 
 Key output:
